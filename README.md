@@ -1,5 +1,9 @@
 # Instructions to get started
 
-'npm install' 
+`npm install` 
 
-'npm run'
+`npm run`
+
+# To run tests
+
+`npm run test`
