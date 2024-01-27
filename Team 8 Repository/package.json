@@ -1,0 +1,22 @@
+{
+  "name": "cit-262-folder",
+  "version": "1.0.0",
+  "description": "`npm install`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danistew2/CIT-262.git"
+  },
+  "author": "Dani Stewart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danistew2/CIT-262/issues"
+  },
+  "homepage": "https://github.com/danistew2/CIT-262#readme",
+  "dependencies": {
+    "@expo/ngrok": "^4.1.0"
+  }
+}
