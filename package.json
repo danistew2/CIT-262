@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/danistew2/CIT-262/issues"
   },
-  "homepage": "https://github.com/danistew2/CIT-262#readme"
+  "homepage": "https://github.com/danistew2/CIT-262#readme",
+  "dependencies": {
+    "@expo/ngrok": "^4.1.0",
+    "express": "^4.18.2"
+  }
 }
